@@ -1,0 +1,62 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* .container
+{
+    width: 1140px;
+    margin: auto;
+} */
+.heading
+{
+    text-align: center;
+    margin-top: 30px;
+    /* border: 1px solid black; */
+    background-color:white;
+    box-shadow: 0 0 10px rgb(206, 204, 204);
+    border-radius: 6px;
+    color: black;
+    font-family: calibri;
+    padding: 10px;
+}
+.formarea
+{
+
+    margin-top: 30px;
+    background-color:white;
+    box-shadow: 0 0 10px rgb(206, 204, 204);
+    font-size: 18px;
+    font-family: calibri;
+    padding: 10px;
+    border-radius: 10px;
+}
+.formarea div
+{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+label
+{
+    padding-left: 40px;
+}
+input
+{
+    background-color:white;
+    box-shadow: 0 0 10px rgb(206, 204, 204);
+    border-radius: 5px;
+    border: none;
+    width: 65%!important;
+    height: 40px;
+    padding: 5px;
+}
+.btn
+{
+    padding: 10px 30px;
+}
+.btn:hover
+{
+    padding: 10px 30px;
+    border: 1px solid ;
+}
